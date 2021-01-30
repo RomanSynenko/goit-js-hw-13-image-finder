@@ -23,7 +23,7 @@ export default {
                     pnotify.goodRequest()
                 }
                 return hits
-            });
+            })
     },
     resetPage() {
         this.pageNumber = 1;
